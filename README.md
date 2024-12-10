@@ -1,2 +1,4 @@
-# Coleta de Dados
-## Coleta de dados básica utilizando Python
+# Data collection
+## Basic HTML data collection using Python
+### Packages:
+Requests, Pandas, Selenium, BS4
