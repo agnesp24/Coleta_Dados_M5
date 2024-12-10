@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
-#Configura o Selenium para usar o Chrome no modo headless, no sandbox e disabe o uso do \dev\shm\
+#Configura o Selenium para usar o Chrome no modo headless, no sandbox e disable o uso do \dev\shm\
 chrome_options = Options()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
