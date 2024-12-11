@@ -1,4 +1,4 @@
 # Data collection
 ## Basic HTML data collection using Python
 ### Packages:
-Requests, Pandas, Selenium, BS4
+Requests, Pandas, Selenium, BS4, Faker, Random, Time
